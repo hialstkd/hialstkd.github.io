@@ -17,9 +17,8 @@ University of Southern California Los Angeles, CA
 
 ### Work Experience
 
-blah
-blah
+Edgewood Consulting Group
 
 ### Projects
 
-blah blah
+Yelp API
